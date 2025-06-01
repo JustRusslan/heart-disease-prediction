@@ -28,6 +28,11 @@ The model is trained on clinical data to predict whether a patient is at risk of
 - Understanding feature importance.
 - Practical implications of results.
 
+### 🖼️ **Visualizations**
+- Correlation heatmap for identifying feature relationships.
+- Confusion matrix for model evaluation.
+- ROC curve with AUC score for classifier performance.
+
 ---
 
 ## 🧰 Tech Stack:
