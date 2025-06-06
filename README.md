@@ -1,4 +1,4 @@
-# ❤️ Heart Attack Risk Prediction with Logistic Regression
+# Heart Attack Risk Prediction with Logistic Regression
 
 This project applies logistic regression to predict whether a patient is at risk of a heart attack, using a medical dataset containing clinical and lifestyle indicators.
 
